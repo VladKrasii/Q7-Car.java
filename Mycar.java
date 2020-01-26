@@ -1,12 +1,7 @@
 package com.company;
 
 
-    public class MyCar extends Car {
-
-        Override
-        void description() {
-            System.out.println(
-            public class MyCar extends Car {
+                public class MyCar extends Car {
 
                 @Override
                 void description() {
